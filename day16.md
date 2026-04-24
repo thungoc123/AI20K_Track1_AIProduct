@@ -1,48 +1,112 @@
-Workshop 1: 
-segment name: Người học tiếng trung ở việt nam đang thiếu môi trường để luyện phản xạ nói. Người lớn tuổi từ 22-40 và muốn học nhanh theo năng lực học hiện có và không muốn bị kiềm chế tốc độ tại trung tâm. 
-operational context: Người học đang trong vòng lặp, họ đến trung tâm và trao đổi với giáo viên, kết thúc bài học thì họ về nhà và làm bài tập. 
-reucurring workflow: 
-Đến trung tâm -> ghi chú / học tập -> về nhà làm bài tập -> lại đến trung tâm
-pain moment : 
-Thời gian và mức độ tiếp thu phụ thuộc vào trung tâm tiếng trung. 
-không có người giao tiếp 
-Giới hạn slot nói lại lớp
-Tốc độ học quá chậm và bị kéo dài hơn thực tế 
-why now : 
-với 2 năm trước: 
-Chưa có AI hay một môi trường học tập riêng biệt cho người dùng. 
-Nhu cầu học tiếng trung ở thời điểm hiện tại đang rất cao. 
-access path: 
-Gặp gỡ họ tại các trung tâm học tiếng trung. 
+Customer + Segment Card
 
-Workshop 2: Need Map 
-Need statement: 
-Trong môi trường là Việt Nam và các trung tâm đào tạo tiếng trung, khi người học muốn nói và tăng phản xạ tiếng trung tự nhiên hơn, họ muốn biến môi trường của họ gần giống với trung quốc để tăng tốc độ học của họ nhanh nhất. 
-Current workaround: Họ tham gia các trung tâm tiếng trung, community, workshop, nền tảng nói chuyện online qua mạng, ... 
-Pain signal: Bị giới hạn bởi thời gian của người khác, thiếu 24/7, và một lộ trình cải tiến theo cá nhân họ. 
-Evidence: Các trung tâm / cộng đồng / giao tiếp và rèn luyện tiếng trung có rất nhiều thành viên tham gia. 
-Why underserved: 
-Vì họ đang luyện tập theo thời gian của người khác, người Trung quốc sẵn sàng support thì ít. 
+Segment name
+Người Việt (22–40 tuổi) học tiếng Trung tại trung tâm nhưng muốn cải thiện speaking nhanh hơn
 
-Workshop 3: Strategy Statement + Moat 
-For user who want to have an enviroment to practice chinese speaking skills. 
-who struggle with arranging their time and find an enviroment or slot for looking for a real chinese ( who can support them )
-our product helps them slove this pain with a chinese teacher assistant robot. 
-though appling AI and Robotics, VLM, Speech to speech and speech to text, our product mainly speak and retrieve user drawbacks and help them improve it. 
-unlike some traditional impact such as physical teacher or some simple speaking platform. 
-because our product can work 24/7, for everytime, everywhere as long as user time is available. 
+Operational context
 
-Our moat mechanism is: Real customer because that is our pain, domain-learning flywheel. 
-The following things get systematically better: 
-1. Our main skills are software developer, language learner, AI Engineering, boss are phd and research
-1.1. We have many relationship with tops. 
-2. Our team learn too fast
-3. We have real customer 
-4. Narrow down on chinese, not many solutions before. 
-5. Our main customers have ability to learn too fast and stuck at arrange their time ( we are the same)
-Why competitor cannot easily replicate this: 
-- Lack of tech skills 
-- Market is not big for big tech / medium tech to conduct. 
+Đang học tại trung tâm tiếng Trung
+Có lịch học cố định, phụ thuộc giáo viên và lớp
+Thời gian luyện nói ngoài lớp rất hạn chế
+Chủ yếu học theo giáo trình chung, ít cá nhân hóa
 
-template positioning note: 
-1. 
+Recurring workflow
+
+Đi học theo lịch trung tâm
+Làm bài tập / học từ vựng
+Cố gắng tìm cơ hội luyện nói (bạn bè / group)
+Luyện không đều, phụ thuộc thời gian người khác
+
+Pain moment
+
+Khi muốn luyện nói nhưng không có ai để nói cùng
+Khi nhận ra mình học lâu nhưng phản xạ nói vẫn kém
+Khi bị “kẹt” ở level trung bình, không tiến nhanh hơn
+
+Why now
+
+AI (voice + LLM) đã đủ tốt để simulate conversation
+Nhu cầu học ngôn ngữ tăng mạnh (du học, việc làm)
+Người học ngày càng quen với self-learning tools
+Trước đây chưa có giải pháp luyện speaking real-time đủ tốt
+
+Access path
+
+TikTok / YouTube (content học tiếng Trung)
+Cộng đồng học tiếng Trung (Facebook groups)
+Trung tâm tiếng Trung (partnership / referral)
+SEO: “luyện nói tiếng Trung”, “practice Chinese speaking”
+Need Map
+
+Need #1
+
+Need statement (JTBD)
+When I want to improve my Chinese speaking, I want a flexible and always-available environment to practice, so I can build natural speaking reflex without depending on other people’s schedules.
+
+Current workaround
+
+Học tại trung tâm
+Tham gia group luyện nói
+Tự tìm partner luyện nói
+Thỉnh thoảng nói chuyện với người quen
+
+Pain signal
+
+Mất thời gian tìm người luyện
+Luyện không đều → progress chậm
+Không có feedback ngay
+Stress vì “học nhiều nhưng không nói được”
+
+Evidence (or proxy)
+
+Nhiều group “tìm partner học tiếng Trung” hoạt động mạnh
+Người học than phiền thiếu môi trường speaking
+Tỷ lệ bỏ học cao sau giai đoạn cơ bản
+Người học willing trả tiền cho speaking class riêng
+
+Why underserved
+
+Trung tâm focus vào lớp học, không phải luyện speaking liên tục
+Giải pháp hiện tại phụ thuộc người thật (không scale)
+App học ngôn ngữ thường yếu phần speaking real-time
+Thiếu cá nhân hóa theo lỗi nói của từng người
+Strategy Statement + Moat
+
+For
+Người Việt học tiếng Trung
+
+who struggle with
+thiếu môi trường luyện speaking thường xuyên và liên tục
+
+our product helps them
+luyện nói tiếng Trung mọi lúc, tăng phản xạ tự nhiên nhanh hơn
+
+through
+AI conversation real-time + feedback tức thì + cá nhân hóa lỗi
+
+unlike
+trung tâm tiếng Trung, language exchange, hoặc app học truyền thống
+
+because we can leverage
+AI + tập trung sâu vào speaking + hiểu rõ hành vi người học Việt
+
+Template Moat Hypothesis
+
+Our moat mechanism is:
+
+Data compounding từ lỗi nói của người dùng Việt
+Cá nhân hóa theo từng user (learning loop)
+Workflow embedding (trở thành thói quen luyện mỗi ngày)
+
+If we deploy 50 times in the same vertical,
+
+Chúng tôi sẽ tích lũy dataset speaking rất sâu cho người Việt
+Model hiểu rõ lỗi phổ biến → feedback tốt hơn đối thủ
+Tạo network effect nhẹ (benchmark, level, progress comparison)
+Tăng switching cost vì user đã “train” hệ thống theo mình
+
+1. What you are?
+You are a 24/7 AI Chinese teacher robot that creates an immersive, personalized speaking practice environment—like being in China—for busy Vietnamese adults (22-40) who are stuck in slow center classes and lack real conversation slots.
+
+2. What you are not / not yet?
+You are not a full language course or grammar app; you're not a generic chat platform or group community reliant on other people's schedules. Not yet: A multi-language tool or enterprise B2B solution—we're laser-focused on Chinese speaking fluency for individual Vietnamese learners.
