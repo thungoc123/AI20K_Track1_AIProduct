@@ -145,3 +145,13 @@ Nói 4 câu trên trong 30s thôi -> từ đó VC mới biết là câu này có
 ### Có template twitter pitching : mình có thể kham khảo
 Seed VC -- Thích vision lớn - tăng trưởng nhanh thì cần vốn, có các round thì tìm angel invester để xin 50k đô, dung size chỉ từ 10k - 50k đô. Quỹ pre seed là 100k đô để làm, họ sẽ quan tâm là tăng trưởng có đủ chỉ số để vào vòng tiếp theo không ? Qua mỗi vòng thì dung sai đầu tư tiền sẽ lớn hơn, họ quan tâm cái startup này có đến được vòng seed hay không ? Có những quỹ ở vòng pre-seed làm đến một mức độ đến seed rồi thì sẽ bán cho ở quỹ ở vòng seed, rồi các quỹ ở vòng seed làm rồi thì sẽ bán đến quỹ series A để bán. Trọng tâm là biết mình nằm ở vòng nào để gọi quỹ ở vòng đấy ( hiểu mình để hiểu chân dung quỹ ) 
 Series A VC -- Thích metrics 
+
+# Data Flywheel note-taking
+
+More Users: Professionals use your app to practice Chinese scenarios (e.g., a factory tour).
+
+More Data: Every interaction captures specific "edge cases"—the exact mistakes Vietnamese speakers make or the specific industry slang they need.
+
+Better Model: You use that specific data to fine-tune your AI. It becomes more "localized" and "nuanced" than a general model like GPT-4.
+
+Better Product: The app now understands the user perfectly. This attracts More Users, and the cycle restarts.
