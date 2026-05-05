@@ -119,3 +119,29 @@ Mọi người thường skip từ Awareness đến thẳng Ability. -> skip des
 
 ![alt text](image-1.png)
 
+# Block 3 : Viết 250 câu về startup của bạn dể pitch desk 
+VC quan tâm đến: 
+1. Tagline 
+2. Problem + Solution 
+3. 
+
+## Minto Pyramid: 
+McKinsey là đơn vị tư vấn kinh doanh hàng đầu thế giới
+*Lật ngược thứ tự kể chuyện = tôn trọng time của người nghe
+*
+![alt text](image-2.png)
+
+Nên nói về tiền ngay từ đầu -> họ sẽ biết là có nên nghe hay không rồi. Nói thẳng ra cái mình làm xem có hợp khẩu vị của họ ngay từ đầu luôn. 
+=> Tiết kiệm thời gian của người nghe
+Luồng bottom - up thì nên cho họ một file riêng biệt để họ xem nếu họ có ít thời gian. 
+
+# SCQA / Cấu trúc mở bài chuẩn Minto 
+Situation: Bối cảnh ai cũng đồng ý ( không tranh cãi )
+Complication: Biến cố / Pain - " Nhưng vấn đề là ... "
+Question : Câu hỏi treo ở đầu của người nghe 
+Answer: Giải pháp của bạn ( Đây là tagline startup )
+Nói 4 câu trên trong 30s thôi -> từ đó VC mới biết là câu này có hợp khẩu vị của họ hay không rồi. 
+
+### Có template twitter pitching : mình có thể kham khảo
+Seed VC -- Thích vision lớn - tăng trưởng nhanh thì cần vốn, có các round thì tìm angel invester để xin 50k đô, dung size chỉ từ 10k - 50k đô. Quỹ pre seed là 100k đô để làm, họ sẽ quan tâm là tăng trưởng có đủ chỉ số để vào vòng tiếp theo không ? Qua mỗi vòng thì dung sai đầu tư tiền sẽ lớn hơn, họ quan tâm cái startup này có đến được vòng seed hay không ? Có những quỹ ở vòng pre-seed làm đến một mức độ đến seed rồi thì sẽ bán cho ở quỹ ở vòng seed, rồi các quỹ ở vòng seed làm rồi thì sẽ bán đến quỹ series A để bán. Trọng tâm là biết mình nằm ở vòng nào để gọi quỹ ở vòng đấy ( hiểu mình để hiểu chân dung quỹ ) 
+Series A VC -- Thích metrics 
