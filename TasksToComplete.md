@@ -36,10 +36,10 @@
 ---
 
 ## Checklist hoàn thiện
-- [ ] Bổ sung file Excel tài chính (Day 18)
-- [ ] Viết mô tả tài chính, LTV, CAC, Payback
-- [ ] Xây dựng Roadmap, OKRs
-- [ ] Vẽ Dependency Map, xác định Critical Path
-- [ ] Hoàn thiện PRD chi tiết (Day 17)
-- [ ] Đọc lại các file Handbook để bổ sung insight
+- [ X] Bổ sung file Excel tài chính (Day 18)
+- [ X] Viết mô tả tài chính, LTV, CAC, Payback
+- [ X] Xây dựng Roadmap, OKRs
+- [ X] Vẽ Dependency Map, xác định Critical Path
+- [ X] Hoàn thiện PRD chi tiết (Day 17)
+- [ X] Đọc lại các file Handbook để bổ sung insight
 - [ ] Thêm một phần để stress test cái file milstone này ( các prompt stress test có ở đâu đó trong bộ dữ liệu )
